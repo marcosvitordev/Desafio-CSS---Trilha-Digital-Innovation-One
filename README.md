@@ -24,4 +24,4 @@ O objetivo deste desafio foi reproduzir o layout proposto no Figma utilizando ap
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/trilha-css-desafio-01.git
+   git clone https://github.com/marcosvitordev/Desafio-CSS---Trilha-Digital-Innovation-One.git
